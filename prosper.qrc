@@ -1,0 +1,35 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/left_cart_on.svg</file>
+    <file>images/right_cart_on.svg</file>
+    <file>images/gears.svg</file>
+    <file>images/add.svg</file>
+    <file>images/remove.svg</file>
+    <file>images/left_cart.svg</file>
+    <file>images/right_cart.svg</file>
+    <file>images/racks_multiple.svg</file>
+    <file>images/racks.svg</file>
+    <file>images/cartridge.svg</file>
+    <file>images/check_on_green.svg</file>
+    <file>images/check_off_red.svg</file>
+    <file>images/check_off.svg</file>
+    <file>images/check_on.svg</file>
+    <file>images/9valve_content.svg</file>
+    <file>images/valve_bg.svg</file>
+    <file>images/8valve_content.svg</file>
+    <file>images/7valve_content.svg</file>
+    <file>images/6valve_content.svg</file>
+    <file>images/6valve_fingers.svg</file>
+    <file>images/7valve_finger.svg</file>
+    <file>images/8valve_fingers.svg</file>
+    <file>images/9valve_fingers.svg</file>
+    <file>images/Gtk-bottom-left.svg</file>
+    <file>images/Gtk-bottom-right.svg</file>
+    <file>images/Gtk-go-back-ltr.svg</file>
+    <file>images/Gtk-go-down.svg</file>
+    <file>images/Gtk-go-forward-ltr.svg</file>
+    <file>images/Gtk-go-up.svg</file>
+    <file>images/Gtk-top-left.svg</file>
+    <file>images/Gtk-top-right.svg</file>
+  </qresource>
+</RCC>

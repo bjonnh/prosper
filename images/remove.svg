@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="60" width="60" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <rect rx="4" height="14" width="50" y="23" x="5" fill="#800000"/>
+ <rect rx="2" height="10" width="46" y="25" x="7" fill="#f00"/>
+</svg>
